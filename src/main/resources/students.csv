@@ -1,0 +1,51 @@
+StudentId,Name,Course,Score
+S1,Vikram Pillai,Mathematics,72
+S2,Varun Iyer,Mathematics,98
+S3,Nikhil Nair,Mathematics,99
+S4,Isha Rao,Mathematics,55
+S5,Sneha Verma,Mathematics,94
+S6,Aditya Nair,Mathematics,98
+S7,Karthik Nair,Mathematics,84
+S8,Meera Iyer,Mathematics,69
+S9,Sneha Gupta,Mathematics,83
+S10,Sanjay Reddy,Mathematics,76
+S11,Priya Singh,Mathematics,78
+S12,Varun Verma,Mathematics,91
+S13,Rohit Singh,Physics,56
+S14,Vikram Pillai,Physics,75
+S15,Sanjay Reddy,Physics,81
+S16,Vikram Reddy,Physics,66
+S17,Rohit Menon,Physics,78
+S18,Neha Verma,Physics,92
+S19,Kavya Menon,Physics,85
+S20,Isha Nair,Physics,67
+S21,Neha Reddy,Physics,80
+S22,Rohit Reddy,Physics,69
+S23,Divya Iyer,Physics,64
+S24,Isha Nair,Physics,88
+S25,Sneha Pillai,Computer Science,59
+S26,Karthik Pillai,Computer Science,90
+S27,Rohit Gupta,Computer Science,87
+S28,Isha Iyer,Computer Science,90
+S29,Divya Rao,Computer Science,89
+S30,Vikram Pillai,Computer Science,78
+S31,Sanjay Singh,Computer Science,79
+S32,Isha Singh,Computer Science,63
+S33,Rohit Menon,Computer Science,77
+S34,Ananya Pillai,Computer Science,84
+S35,Arjun Nair,Computer Science,77
+S36,Ananya Reddy,Computer Science,80
+S37,Meera Rao,Chemistry,56
+S38,Neha Menon,Chemistry,69
+S39,Nikhil Gupta,Chemistry,67
+S40,Rahul Pillai,Chemistry,82
+S41,Ananya Singh,Chemistry,93
+S42,Rahul Shah,Chemistry,77
+S43,Rohit Nair,Chemistry,56
+S44,Varun Reddy,Chemistry,85
+S45,Isha Pillai,Chemistry,56
+S46,Rohit Pillai,Chemistry,91
+S47,Arjun Singh,Chemistry,91
+S48,Aditya Shah,Chemistry,94
+S49,Extra Topper,Mathematics,97
+S50,Another Topper,Mathematics,97
